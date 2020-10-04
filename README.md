@@ -34,7 +34,7 @@
 
 ```
 cd /usr/share/fonts
-git clone https://github.com/sangbatosai-code5/Fonts-Code5.git
+sudo git clone https://github.com/sangbatosai-code5/Fonts-Code5.git
 
 Optional:
 sudo reboot
