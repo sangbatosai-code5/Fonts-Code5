@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/65680662/95024220-e076fa00-06ab-11eb-90bc-8096adb37d2d.png" width="154">
-  <h1 align="center">InstaCode5</h1>
-  <p align="center">With <b>automates</b> Likes, Comments, and Followers on Instagram Python using the Selenium module.<p>
+  <img src="https://user-images.githubusercontent.com/65680662/95024220-e076fa00-06ab-11eb-90bc-8096adb37d2d.png" width="80%">
+  <h1 align="center">Install Fonts on Linux</h1>
+  <p align="center">With included<b>775 Fonts</b>.<p>
   <p align="center">
     <a href="https://github.com/sangbatosai-code5/InstaCode5/blob/master/LICENSE.md">
       <img src="https://img.shields.io/badge/license-GPLv3-blue.svg" />
     </a>
-    <a href="https://github.com/SeleniumHQ/selenium">
-      <img src="https://img.shields.io/badge/built%20with-Selenium-yellow.svg" />
+    <a href="https://www.youtube.com/watch?v=5-Jyfe_Sg90&t">
+      <img src="https://img.shields.io/youtube/views/5-Jyfe_Sg90?style=plastic" />
     </a>
 
 
