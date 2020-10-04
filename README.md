@@ -36,7 +36,7 @@
 cd /usr/share/fonts
 git clone https://github.com/sangbatosai-code5/InstaCode5.git
 
-<i>optional :</i>
+Optional:
 sudo reboot
 ```
 
@@ -47,8 +47,8 @@ You can find more videos on My Channel [[here](https://www.youtube.com/channel/U
 
 About InstaCode5 Videos:
 <div align="center" >
-      <a href="https://www.youtube.com/watch?v=5-Jyfe_Sg90&t" target="_blank">
-     <img src="https://img.youtube.com/vi/5-Jyfe_Sg90&t/0.jpg" alt="Examples on My Channel"  style="width:100%;">
+      <a href="https://www.youtube.com/watch?v=v=5-Jyfe_Sg90&t" target="_blank">
+     <img src="https://user-images.githubusercontent.com/65680662/95024220-e076fa00-06ab-11eb-90bc-8096adb37d2d.png" alt="Examples on My Channel"  style="width:60%;">
       </a>
     </div>
 
